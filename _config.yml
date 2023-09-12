@@ -1,0 +1,19 @@
+remote_theme: coursweb/jk-theme
+title: Processing
+description: Un support de cours Processing
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: Processing
+   url: https://cours-web.ch/processing/   
+ - title: HTML
+   url: https://cours-web.ch/html/
+ - title: CSS
+   url: https://cours-web.ch/html/
+ - title: JavaScript
+   url: https://cours-web.ch/javascript/
+ - title: Serveurs
+   url: https://cours-web.ch/serveurs/
+ - title: WordPress (Old)
+   url: https://cours-web.ch/wp/
