@@ -4,10 +4,22 @@ title: Setup & Draw
 permalink: setup-draw.html
 ---
 
-Exemple de code 
+Exemples de code :
 
-Dessiner des cercles 
-C'est l'exemple 2-2 : 
+Dessiner une ligne:
+
+```javascript
+function setup() {
+  createCanvas(480, 120);
+}
+function draw() {
+  background(204); 
+  line(20, 50, 420, 110);
+}
+```
+
+
+Dessiner des cercles: 
 
 ```javascript
 function setup() { 
