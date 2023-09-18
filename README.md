@@ -30,7 +30,7 @@ function setup() {
 }
 ```
 
-<iframe style="aspect-ratio: 4/3" src="https://editor.p5js.org/p5/full/hhu8mAXJpQ7"></iframe>
+<iframe width="100%" style="aspect-ratio: 4/3" src="https://editor.p5js.org/p5/full/hhu8mAXJpQ7"></iframe>
 
 ## Commandes de base
 
