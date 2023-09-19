@@ -50,8 +50,8 @@ Changer la couleur du trait:
 
 ```javascript
 stroke(255);                // le trait sera blanc
-stroke(255, 255, 255);      // identique en RVB
+stroke(255, 255, 255);      // blanc, mais en RVB
 stroke(255, 128, 0);        // orange clair
-stroke(#FF8000);            // même chose
+stroke(#FF8000);            // toujours orange clair
 stroke(255, 128, 0, 128);   // orange avec 50% de transparence
 ```

@@ -13,7 +13,7 @@ chapters:
    url: https://cours-web.ch/html/
  - title: JavaScript
    url: https://cours-web.ch/javascript/
- - title: Serveurs
-   url: https://cours-web.ch/serveurs/
- - title: WordPress (Old)
-   url: https://cours-web.ch/wp/
+# - title: Serveurs
+#   url: https://cours-web.ch/serveurs/
+# - title: WordPress (Old)
+#   url: https://cours-web.ch/wp/
