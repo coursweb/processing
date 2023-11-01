@@ -20,4 +20,4 @@ permalink: ressources.html
 
 - [Introdcution à JS: dessiner et animer](https://fr.khanacademy.org/computing/computer-programming/programming) - cours en français sur Kahn Academy
 - [The Coding Train with Daniel Shiffman](https://thecodingtrain.com/tracks/code-programming-with-p5-js) (en anglais)
-
+- [Vidéos du canal Arts Numériques](https://www.youtube.com/playlist?list=PLDdoBMCKjS0Y-WfTf93kDHpVNcnv7OGrf) et son site [https://codeb3.netlify.app/](https://codeb3.netlify.app/)
