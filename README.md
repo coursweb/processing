@@ -1,5 +1,16 @@
 # Processing et P5.JS
 
+## Termes principaux
+
+**Variable:** définir une variable, c'est définir un mot-clé, comme p.ex. "vitesse", qui contiendra un nombre pouvant changer.
+
+Dans P5, `width` et `height` sont des variables par défaut.
+
+Nommer une variable : on peut utiliser tous les mots, sauf les termes déjà utilisés par P5.js (voir [référence](https://p5js.org/reference/)). 
+On va donc souvent préfixer ses variables, comme: My_vitesse, ProjectName_vitesse, etc.
+
+
+
 Thèmes en vrac:
 
 - Formes et dessin
