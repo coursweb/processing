@@ -2,12 +2,15 @@
 
 ## Termes principaux
 
-**Variable:** définir une variable, c'est définir un mot-clé, comme p.ex. "vitesse", qui contiendra un nombre pouvant changer.
+**Variable :** définir une variable, c'est définir un mot-clé, comme p.ex. "vitesse", qui contiendra un nombre pouvant changer.
 
-Dans P5, `width` et `height` sont des variables par défaut.
+Dans P5, `width` et `height` sont des variables par défaut (indiquent la hauteur et largeur du canevas).
 
-Nommer une variable : on peut utiliser tous les mots, sauf les termes déjà utilisés par P5.js (voir [référence](https://p5js.org/reference/)). 
-On va donc souvent préfixer ses variables, comme: My_vitesse, ProjectName_vitesse, etc.
+D'autres variables sont: `mouseX` et `mouseY`, qui correspond à la valeur x et y de la position de la souris.
+
+**Nommer une variable :** on peut définir librement une variable, mais il faut éviter les termes déjà utilisés par P5.js (voir [référence](https://p5js.org/reference/)) ou [les mots-clés réservés du javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Lexical_grammar#mots-cl%C3%A9s) (reserved names).
+
+Pour éviter des conflits avec les mots-clés réservés va donc souvent préfixer ses variables, comme: My_vitesse, ProjectName_vitesse, etc.
 
 
 
