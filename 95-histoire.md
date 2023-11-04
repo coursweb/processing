@@ -12,7 +12,9 @@ Histoire de processing...
 
 En 2013, Lauren McCarthy crée **p5.js** : c'est Processing réinventé pour le web. Dans cette vidéo, elle raconte comment elle a développé cet outil:
 
-<iframe width="100%" style="ratio:16/9" src="https://www.youtube-nocookie.com/embed/1k3X4DLDHdc?si=LCPXeaPWaT2O-_-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" style="ratio:9/16" src="https://www.youtube-nocookie.com/embed/1k3X4DLDHdc?si=LCPXeaPWaT2O-_-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Histoire ancienne...
 
 Un extrait du livre p5.js (Lauren McCarthy):
 
