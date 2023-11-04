@@ -8,6 +8,12 @@ Histoire de processing...
 
 [Voir Wikipédia](https://fr.wikipedia.org/wiki/Processing)
 
+À la fin des années 1990, John Maeda crée durant son enseignement au MIT Media Lab un logiciel nommé Design By Numbers. Ses étudiants Casey Reas et Ben Fry commencent en 2001 à développer Processing, dans le langage Java.
+
+En 2013, Lauren McCarthy crée **p5.js** : c'est Processing réinventé pour le web. Dans cette vidéo, elle raconte comment elle a développé cet outil:
+
+<iframe width="100%" style="ratio:16/9" src="https://www.youtube-nocookie.com/embed/1k3X4DLDHdc?si=LCPXeaPWaT2O-_-e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Un extrait du livre p5.js (Lauren McCarthy):
 
 Depuis les années 1960, des gens ont produit des images avec des ordinateurs. Avant que les ordinateurs soient dotés d'écrans CRT ou LCD, des imprimantes plotter pouvaient être utilisées pour dessiner.
