@@ -10,7 +10,7 @@ D'autres variables sont: `mouseX` et `mouseY`, qui correspond à la valeur x et 
 
 **Nommer une variable :** on peut définir librement une variable, mais il faut éviter les termes déjà utilisés par P5.js (voir [référence](https://p5js.org/reference/)) ou [les mots-clés réservés du javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Lexical_grammar#mots-cl%C3%A9s) (reserved names).
 
-Pour éviter des conflits avec les mots-clés réservés va donc souvent préfixer ses variables, comme: My_vitesse, ProjectName_vitesse, etc.
+Pour éviter des conflits avec les mots-clés réservés, on va souvent préfixer ses variables, comme: My_vitesse, ProjectName_vitesse, etc.
 
 
 
